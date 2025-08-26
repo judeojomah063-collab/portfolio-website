@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jude Oyakah | Web Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 5px 0;
+      font-size: 1.2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #222;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 10px 0;
+    }
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jude Oyakah</h1>
+    <p>Web Developer | Building clean and modern websites</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I'm Jude, a passionate web developer who loves creating modern, responsive, and user-friendly websites. I enjoy solving problems and learning new technologies.</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="#">To-Do List App</a> – A simple productivity app</li>
+      <li><a href="#">Weather App</a> – Live weather updates by city</li>
+      <li><a href="#">Calculator</a> – A responsive calculator</li>
+    </ul>
+    <p>(Links will be added once projects are live!)</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:judeojomah063@gmail.com">judeojomah063@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/judeojomah063-collab" target="_blank">github.com/judeojomah063-collab</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Jude Oyakah | Web Developer</p>
+  </footer>
+</body>
+</html>
